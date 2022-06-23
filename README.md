@@ -1,11 +1,11 @@
 
 ### Eae, tudo bem? Me chamo Júnior Baum.😎
-## Atualmente curso ADS na Cruzeiro do Sul, e o vou contar algumas coisinhas abaixo:
-# Desde Janeiro desse ano, toda noite tento estudar algo de programação. Mas meus estudos comecaram em 2019.
-# Em 2019, aprendi HTM, CSS e JavaScript mas nao dei continuidade aos estudos.
-# Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
-# Angular e React no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
-# C#/.NET no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
+### Atualmente curso ADS na Cruzeiro do Sul, e o vou contar algumas coisinhas abaixo:
+#### Desde Janeiro desse ano, toda noite tento estudar algo de programação. Mas meus estudos comecaram em 2019.
+#### Em 2019, aprendi HTM, CSS e JavaScript mas nao dei continuidade aos estudos.
+#### Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
+#### Angular e React no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
+#### C#/.NET no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
 
 <div align="left">
   <a href="https://github.com/jrsbaum">
