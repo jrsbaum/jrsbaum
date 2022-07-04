@@ -6,7 +6,7 @@
 #### Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
 #### Angular e React no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
 #### C#/.NET no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
-#### (em breve farei um roadmap meu mostrando o que eu já sei)
+#### Durante meus estudos, aprendi a trabalhar com banco de dados (relacional e não-relacional) e usar ferramentas de versionamento de código (Git, Github). Também sempre procuro adquirir boas práticas de desenvolvimento, como Clean Code e SOLID.
 #### Além disso, 1 vez por semana faço aula particular de inglês. 
 
 <div align="left">
