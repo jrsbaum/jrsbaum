@@ -15,7 +15,7 @@
   </div>
   
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsbaum&langs_count=10&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsbaum&langs_count=8&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
