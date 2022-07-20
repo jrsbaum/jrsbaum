@@ -1,7 +1,7 @@
 
 ### Eae, tudo bem? Me chamo Júnior Baum.😎
 ### Atualmente curso ADS, e vou contar algumas coisinhas abaixo:
-#### Desde Janeiro desse ano, toda noite tento estudar algo de programação. Mas meus estudos começaram em 2019.
+#### Desde Janeiro desse ano, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019.
 #### Em 2019, aprendi HTML, CSS e JavaScript mas não dei continuidade aos estudos.
 #### Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
 #### Angular e React no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
