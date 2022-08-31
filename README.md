@@ -2,11 +2,11 @@
 ### Eae, tudo bem? Me chamo Júnior Baum.😎
 ### Atualmente curso ADS, e vou contar algumas coisinhas abaixo:
 #### Desde Janeiro desse ano, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019.
-#### Em 2019, aprendi HTML, CSS e JavaScript mas não dei continuidade aos estudos.
+#### Em 2019, aprendi `HTML, CSS e JavaScript` mas não dei continuidade aos estudos.
 #### Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
-#### Angular e React no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
-#### C#/.NET no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
-#### Durante meus estudos, aprendi a trabalhar com banco de dados e usar ferramentas de versionamento de código (Git, Github). Também sempre procuro adquirir boas práticas de desenvolvimento, como Clean Code e SOLID.
+#### `Angular` e `React` no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
+#### `C#/.NET` no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
+#### Durante meus estudos, aprendi a trabalhar com `banco de dados` e usar ferramentas de `versionamento de código` (Git, Github). Também sempre procuro adquirir boas práticas de desenvolvimento, como `Clean Code` e `SOLID`.
 #### Além disso, 1 vez por semana faço aula particular de inglês. 
 
 <div align="left">
