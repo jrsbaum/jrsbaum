@@ -1,13 +1,12 @@
 
 ### Eae, tudo bem? Me chamo Júnior Baum.😎
-### Atualmente curso ADS, e vou contar algumas coisinhas abaixo:
-#### Desde Janeiro desse ano, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019.
-#### Em 2019, aprendi `HTML, CSS e JavaScript` mas não dei continuidade aos estudos.
-#### Agora em 2022, estou focado na minha transição de carreira, onde revisei o que eu já sabia e atualmente eu estudo:
-#### `Angular` e `React` no frontend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/frontend
-#### `C#/.NET` e `NodeJs` no backend. Uso esse Roadmap para me auxiliar: https://roadmap.sh/backend
-#### Durante meus estudos, aprendi a trabalhar com `banco de dados` e usar ferramentas de `versionamento de código` (Git, Github). Também sempre procuro adquirir boas práticas de desenvolvimento, como `Clean Code` e `SOLID`.
-#### Além disso, 1 vez por semana faço aula particular de inglês. 
+#### Meu planejamento para 2023 é minha transição de carreira definitiva pra TI. Estou cursando ADS e me formo em dezembro de 2023.
+#### Desde outubro de 2021, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019. Segue abaixo algumas tecnologias que venho estudado.
+#### Frontend: `Javascript`, `Typescript`, `Angular`,`React`, `SCSS` e `Bootstrap `.
+#### Backend: `C#` e `NodeJs` com `Javascript/Typescript`.
+#### Versionamento: `Git` (GitHub, GitLab).
+#### Banco de dados: `SQL` (MySQL e SQL server) e `NOSQL` (MongoDB).
+#### Também faço aula particular de `inglês` uma vez por semana.
 
 <div align="left">
   <a href="https://github.com/jrsbaum">
@@ -25,10 +24,7 @@
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
   </div>
   
-  ##
-  
-<div>
-  <a href="https://instagram.com/jrsbaum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
+<div> 
   <a href = "mailto:juniorsbaum@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:juniorsbaum@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=hotmail&logoColor=white%22%20target=%22_blank"></a>
   <a href="https://www.linkedin.com/in/juniorbaum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
