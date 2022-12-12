@@ -1,7 +1,7 @@
 
 ### Eae, tudo bem? Me chamo Júnior Baum.😎
 #### Meu planejamento para 2023 é minha transição de carreira definitiva pra TI. Estou cursando ADS e me formo em dezembro de 2023.
-#### Desde outubro de 2021, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019. Segue abaixo algumas tecnologias que venho estudado.
+#### Desde outubro de 2021, toda noite tento estudar algo sobre programação. Mas meus estudos começaram em 2019. Segue abaixo algumas tecnologias que venho estudando.
 #### Frontend: `Javascript`, `Typescript`, `Angular`,`React`, `SCSS` e `Bootstrap `.
 #### Backend: `C#` e `NodeJs` com `Javascript/Typescript`.
 #### Versionamento: `Git` (GitHub, GitLab).
