@@ -1,20 +1,26 @@
-
-
 ## Eae, tudo bem? Me chamo Júnior Baum.😎
-#### Atualmente trabalho como desenvolvedor Full Stack, aonde tenho como stacks principais o Angular no front e o .NET no back.
-#### Porém, como estou sempre em busca de melhorar minhas habilidades, meu foco principal é o Front com Angular.
-#### Visto que também temos alguns produtos feitos em React e NEXT.Js, também faço algumas features ou correções usando essas libs.
-#### Atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas - previsão de término em Dezembro de 2023.
-#### Como sempre estou estudando e procurando melhorar minhas habilidades, gosto bastante de fazer side projects.
-#### Tenho como meta desse ano, contribuir mais em projetos Open Source.
+Atualmente trabalho como desenvolvedor Full Stack, aonde tenho como stacks principais o Angular no front e o .NET no back.
+
+Porém, como estou sempre em busca de melhorar minhas habilidades, meu foco principal é o Front com Angular.
+
+Visto que também temos alguns produtos feitos em React e NEXT.Js, também faço algumas features ou correções usando essas libs.
+
+Atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas - previsão de término em Dezembro de 2023.
+
+Como sempre estou estudando e procurando melhorar minhas habilidades, gosto bastante de fazer side projects.
+Tenho como meta desse ano, contribuir mais em projetos Open Source.
 
 ## Ferramentas que uso no dia a dia:
 
-#### Frontend: `Javascript`, `Typescript`, `Angular`, `React`, `Next.Js`, `SCSS` e `Bootstrap `.
-#### Backend: `C#` / `.NET` e `Entity Framework`.
-#### Banco de dados: `SQL Server` e `MongoDB`.
-#### Versionamento: `Git` e `Azure DevOps`.
-#### Também faço aula particular de `inglês` uma vez por semana. Atualmente sou avaliado como nível intermediário, onde possuo ótima leitura de texto mas travo um pouco na conversação.
+ Frontend: `Javascript`, `Typescript`, `Angular`, `React`, `Next.Js`, `SCSS` e `Bootstrap `.
+ 
+ Backend: `C#` / `.NET` e `Entity Framework`.
+ 
+ Banco de dados: `SQL Server` e `MongoDB`.
+ 
+ Versionamento: `Git` e `Azure DevOps`.
+ 
+ Também faço aula particular de `inglês` uma vez por semana. Atualmente sou avaliado como nível intermediário, onde possuo ótima leitura de texto mas travo um pouco na conversação.
 
 ---
 
