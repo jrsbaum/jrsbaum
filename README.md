@@ -1,11 +1,9 @@
 ## Eae, tudo bem? Me chamo Júnior Baum.😎
-Atualmente trabalho como desenvolvedor Full Stack, aonde tenho como stacks principais o Angular no front e o .NET no back.
-
-Porém, como estou sempre em busca de melhorar minhas habilidades, meu foco principal é o Front com Angular.
+Atualmente trabalho como desenvolvedor Full Stack, aonde tenho como stacks principais o .NET no back e o Angular no front.
 
 Visto que também temos alguns produtos feitos em React e NEXT.Js, também faço algumas features ou correções usando essas libs.
 
-Atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas - previsão de término em Dezembro de 2023.
+Sou formado em Análise e Desenvolvimento de Sistemas.
 
 Como sempre estou estudando e procurando melhorar minhas habilidades, gosto bastante de fazer side projects.
 Tenho como meta desse ano, contribuir mais em projetos Open Source.
